@@ -1,0 +1,5 @@
+__pycache__/
+output/
+detectron2/
+
+*.jpg
